@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Rafael+Depieri!;Desenvolvedor+Mobile+React+Native;Especialista+em+Expo+%26+TypeScript;Transformando+ideias+em+apps+nativos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Rafael+de+Paula!;Desenvolvedor+Mobile+React+Native;Especialista+em+Expo+%26+TypeScript;Transformando+ideias+em+apps+nativos" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,6 +30,11 @@
   <img src="https://skillicons.dev/icons?i=react,reactnative,expo,typescript,javascript,html,css,tailwind,nextjs" height="50" />
 </p>
 
+### 🐍 **Python & Data** *(em aprendizado - DIO)*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,pandas,numpy" height="50" />
+</p>
+
 ### ⚙️ **Backend & Banco de Dados**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,supabase,graphql,prisma" height="50" />
@@ -54,9 +59,9 @@
 ### 🏋️ **AcadApp** — Gestão de Academia Completa
 *Sistema com perfis Admin/Aluno, treinos, medidas, progresso e calendário*
 
-| Preview | Tech Stack | Status |
-|:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaeldep63&repo=appAcadm&theme=tokyonight&show_owner=false" width="350" /> | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FF6B6B?style=flat-square&logo=databricks&logoColor=white) | ✅ **Produção**<br/>[Ver Repositório](https://github.com/rafaeldep63/appAcadm) |
+| Projeto | Tech Stack | Status |
+|:---|:---:|:---:|
+| **AcadApp** — Gestão de academia com perfis Admin/Aluno, treinos, medidas, progresso e calendário | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FF6B6B?style=flat-square&logo=databricks&logoColor=white) | ✅ **Produção**<br/>[Ver Repositório](https://github.com/rafaeldep63/appAcadm) |
 
 </div>
 
@@ -112,6 +117,7 @@
 | Certificação Expo/React Native | 📋 Planejado | ░░░░░░░░░░ 0% |
 | Criar Design System próprio (50+ componentes) | 🚧 Em andamento | ████░░░░░░ 40% |
 | Escrever 12 artigos técnicos no ano | ✍️ Iniciado | ██░░░░░░░░ 15% |
+| **Concluir curso Python na DIO + projeto prático** | 🐍 Iniciado | ██░░░░░░░░ 20% |
 
 </div>
 
@@ -136,7 +142,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-oliveira-978067344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafael-Paula-978067344)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldep63@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeldep63)
 
