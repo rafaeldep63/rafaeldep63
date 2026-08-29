@@ -3,165 +3,208 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6C63FF,8B5CF6,06B6D4&height=120&section=header&text=Bem-vindo+ao+meu+perfil!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6C63FF,8B5CF6,06B6D4&height=150&section=header&text=Bem-vindo+ao+meu+perfil!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="Header Wave" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Brasil-SP-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Disponível-Freelance%20%7C%20CLT%20%7C%20PJ-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌱_Aprendendo-Python%20(DIO)%20%7C%20Reanimated%203-06B6D4?style=flat-square" />
 </p>
 
 ---
 
-## 🎯 **Serviços & Especialidades**
+<details open>
+<summary><b>🎯  Serviços & Especialidades</b></summary>
+<br/>
 
 <div align="center">
 
-| 📱 **Desenvolvimento Mobile** | 🏗️ **Arquitetura & Código** | ☁️ **Backend & Integração** |
+| 📱 **Mobile & Frontend** | 🏗️ **Arquitetura & Qualidade** | ☁️ **Backend & Cloud** |
 |:---:|:---:|:---:|
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge&logo=clean-architecture&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![React Navigation](https://img.shields.io/badge/React_Navigation-8B5CF6?style=for-the-badge&logo=react-router&logoColor=white) | ![SOLID Principles](https://img.shields.io/badge/SOLID-FF6B6B?style=for-the-badge&logo=solid&logoColor=white) | ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white) |
+| ![React Navigation](https://img.shields.io/badge/React_Navigation-8B5CF6?style=for-the-badge&logo=react-router&logoColor=white) | ![SOLID](https://img.shields.io/badge/SOLID-Principles-FF6B6B?style=for-the-badge&logo=solid&logoColor=white) | ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white) |
 | ![Reanimated](https://img.shields.io/badge/Reanimated_3-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Design Patterns](https://img.shields.io/badge/Design_Patterns-8B5CF6?style=for-the-badge&logo=design-patterns&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Testes](https://img.shields.io/badge/Jest-Testes-C21325?style=for-the-badge&logo=jest&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 </div>
+</details>
 
 ---
 
-## 🛠️ **Stack Tecnológica Completa**
-
-### 📱 **Mobile & Frontend**
+<details open>
+<summary><b>🛠️  Stack Tecnológica — Mobile & Frontend</b></summary>
+<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,typescript,javascript,html,css,tailwind,nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,typescript,javascript,html,css,tailwind,nextjs" height="55" />
 </p>
+</details>
 
-### 🐍 **Python & Data** *(em aprendizado - DIO)*
+<details>
+<summary><b>🐍 Stack Tecnológica — Python & Data <i>(em aprendizado — DIO)</i></b></summary>
+<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,pandas,numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,pandas,numpy" height="55" />
 </p>
+</details>
 
-### ⚙️ **Backend & Banco de Dados**
+<details>
+<summary><b>⚙️ Stack Tecnológica — Backend & Banco de Dados</b></summary>
+<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,supabase,graphql,prisma" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,supabase,graphql,prisma" height="55" />
 </p>
+</details>
 
-### 🔧 **Ferramentas & DevOps**
+<details>
+<summary><b>🔧 Stack Tecnológica — Ferramentas & DevOps</b></summary>
+<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,ci,githubactions,fastlane" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,githubactions,fastlane" height="55" />
 </p>
+</details>
 
-### 🧪 **Qualidade & Testes**
+<details>
+<summary><b>🧪 Stack Tecnológica — Qualidade & Testes</b></summary>
+<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,eslint,prettier,sonarqube" height="50" />
+  <img src="https://skillicons.dev/icons?i=jest,eslint,prettier,sonarqube" height="55" />
 </p>
+</details>
 
 ---
 
-## 📱 **Projetos em Destaque**
+<details open>
+<summary><b>📱  Projetos — 🏋️ AcadApp (Produção)</b></summary>
+<br/>
 
-<div align="center">
-
-### 🏋️ **AcadApp** — Gestão de Academia Completa
-*Sistema com perfis Admin/Aluno, treinos, medidas, progresso e calendário*
+*Sistema full-stack mobile com perfis **Admin/Aluno**, treinos personalizados, medidas corporais, progresso visual e calendário de treinos*
 
 | Projeto | Tech Stack | Status |
 |:---|:---:|:---:|
-| **AcadApp** — Gestão de academia com perfis Admin/Aluno, treinos, medidas, progresso e calendário | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FF6B6B?style=flat-square&logo=databricks&logoColor=white) | ✅ **Produção**<br/>[Ver Repositório](https://github.com/rafaeldep63/appAcadm) |
+| **AcadApp** — App de academia em produção | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FF6B6B?style=flat-square&logo=databricks&logoColor=white) ![React Navigation](https://img.shields.io/badge/Navigation-8B5CF6?style=flat-square&logo=react-router&logoColor=white) | ✅ **Produção**<br/>[🔗 Ver Repositório](https://github.com/rafaeldep63/appAcadm) |
+</details>
 
-</div>
+<details open>
+<summary><b>📱  Projetos — 🚧 Em Desenvolvimento Ativo</b></summary>
+<br/>
 
-<div align="center">
-
-### 🚧 **Em Desenvolvimento**
-
-| Projeto | Descrição | Stack | Progresso |
+| Projeto | Descrição | Stack Principal | Progresso |
 |:---|:---|:---|:---:|
-| **App Delivery** | Clone iFood com rastreamento tempo real | React Native, Expo, Socket.io, Maps | 40% |
-| **Finance Tracker** | Controle financeiro com gráficos e relatórios | React Native, Reanimated, Chart.js | 25% |
-| **Design System** | Biblioteca de componentes UI reutilizável | React Native, TypeScript, Storybook | 15% |
-
-</div>
-
----
-
-## 📊 **Estatísticas do GitHub**
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeldep63&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=8B5CF6&fire=06B6D4&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaeldep63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
-</div>
+| **App Delivery** | Clone iFood com rastreamento em tempo real, pagamentos e geolocalização | React Native, Expo, Socket.io, Google Maps, Stripe | ![40%](https://progress-bar.dev/40/?title=Progress&color=6C63FF&width=120) |
+| **Finance Tracker** | Controle financeiro pessoal com gráficos interativos, metas e relatórios PDF | React Native, Reanimated 3, Chart.js, PDFKit | ![25%](https://progress-bar.dev/25/?title=Progress&color=8B5CF6&width=120) |
+| **Design System** | Biblioteca de 50+ componentes UI reutilizáveis, documentada no Storybook | React Native, TypeScript, Storybook, Tokens Design | ![15%](https://progress-bar.dev/15/?title=Progress&color=06B6D4&width=120) |
+</details>
 
 ---
 
-## 📈 **Atividade Recente**
+<details open>
+<summary><b>📊  Estatísticas do GitHub</b></summary>
+<br/>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+</div>
+</details>
+
+---
+
+<details>
+<summary><b>📈  Atividade Recente</b></summary>
+<br/>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+> 💡 *Atualiza automaticamente via GitHub Action*
+</details>
+
 ---
 
-## 🎯 **Metas 2026**
+<details open>
+<summary><b>🎯  Metas 2026</b></summary>
+<br/>
 
 <div align="center">
 
 | Meta | Status | Progresso |
 |:---|:---:|:---:|
-| Publicar 2 apps nas stores (Play Store / App Store) | 🚧 Em andamento | ████████░░ 80% |
-| Contribuir para 5 projetos open-source (React Native) | 📋 Planejado | ░░░░░░░░░░ 0% |
-| Dominar Reanimated 3 + Gesture Handler | 📚 Estudando | ██████░░░░ 60% |
-| Certificação Expo/React Native | 📋 Planejado | ░░░░░░░░░░ 0% |
-| Criar Design System próprio (50+ componentes) | 🚧 Em andamento | ████░░░░░░ 40% |
-| Escrever 12 artigos técnicos no ano | ✍️ Iniciado | ██░░░░░░░░ 15% |
-| **Concluir curso Python na DIO + projeto prático** | 🐍 Iniciado | ██░░░░░░░░ 20% |
+| Publicar 2 apps nas stores (Play Store / App Store) | 🚧 Em andamento | ![80%](https://progress-bar.dev/80/?color=6C63FF&width=150) |
+| Contribuir para 5 projetos open-source (React Native) | 📋 Planejado | ![0%](https://progress-bar.dev/0/?color=8B5CF6&width=150) |
+| Dominar Reanimated 3 + Gesture Handler | 📚 Estudando | ![60%](https://progress-bar.dev/60/?color=06B6D4&width=150) |
+| Certificação Expo/React Native | 📋 Planejado | ![0%](https://progress-bar.dev/0/?color=6C63FF&width=150) |
+| Criar Design System próprio (50+ componentes) | 🚧 Em andamento | ![40%](https://progress-bar.dev/40/?color=8B5CF6&width=150) |
+| Escrever 12 artigos técnicos no ano | ✍️ Iniciado | ![15%](https://progress-bar.dev/15/?color=06B6D4&width=150) |
+| **Concluir curso Python na DIO + projeto prático** | 🐍 Iniciado | ![20%](https://progress-bar.dev/20/?color=6C63FF&width=150) |
 
 </div>
+</details>
 
 ---
 
-## 💼 **Disponível para**
+<details>
+<summary><b>💼  Disponível para</b></summary>
+<br/>
 
 <div align="center">
 
 | Tipo | Disponibilidade | Detalhes |
 |:---:|:---:|:---|
-| 💼 **Freelance / Projetos** | ✅ Disponível | Apps mobile completos, migrações, otimizações |
-| 🤝 **Colaboração Open Source** | ✅ Disponível | PRs, issues, revisão de código |
-| 🎓 **Mentoria / Code Review** | ✅ Disponível | React Native, TypeScript, Arquitetura |
-| 💼 **Oportunidades CLT/PJ** | 🔍 Aberto a propostas | Remote first, foco Mobile |
+| 💼 **Freelance / Projetos** | ✅ Disponível | Apps mobile completos, migrações, otimizações, code review |
+| 🤝 **Open Source** | ✅ Disponível | PRs, issues, revisão, manutenção de libs |
+| 🎓 **Mentoria / Code Review** | ✅ Disponível | React Native, TypeScript, Arquitetura, Carreira dev |
+| 💼 **Oportunidades CLT/PJ** | 🔍 Aberto a propostas | Remote first, foco Mobile, salário compatível |
 
 </div>
+</details>
 
 ---
 
-## 🤝 **Vamos conversar?**
+<details open>
+<summary><b>🤝  Vamos conversar?</b></summary>
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafael-Paula-978067344)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldep63@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldepaula)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.depaula@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeldep63)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
 
 </div>
+</details>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafaeldep63&color=6C63FF&style=for-the-badge&label=Visualizações+do+Perfil" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6C63FF,8B5CF6,06B6D4&height=120&section=footer&animation=fadeIn" alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visualizações-do%20Perfil-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-rafaeldep63-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Última_Atualização-Agosto_2026-8B5CF6?style=for-the-badge" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6C63FF,8B5CF6,06B6D4&height=100&section=footer&animation=fadeIn" alt="Footer" />
-</p>
 
 <p align="center">
   <b>⭐ Se gostou do perfil, deixa uma estrela nos repositórios!</b><br/>
   <i>"Código limpo não é escrito por acaso. É resultado de cuidado, disciplina e refatoração constante."</i><br/>
   — <b>Robert C. Martin</b>
+</p>
+
+<p align="center">
+  <sub>Feito com 💜 por Rafael de Paula • Última atualização: Agosto 2026</sub>
 </p>
