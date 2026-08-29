@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Brasil-SP-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Brasil-MG-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/💼_Disponível-Freelance%20%7C%20CLT%20%7C%20PJ-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/🌱_Aprendendo-Python%20(DIO)%20%7C%20Reanimated%203-06B6D4?style=flat-square" />
 </p>
@@ -100,9 +100,9 @@
 
 | Projeto | Descrição | Stack Principal | Progresso |
 |:---|:---|:---|:---:|
-| **App Delivery** | Clone iFood com rastreamento em tempo real, pagamentos e geolocalização | React Native, Expo, Socket.io, Google Maps, Stripe | ![40%](https://progress-bar.dev/40/?title=Progress&color=6C63FF&width=120) |
-| **Finance Tracker** | Controle financeiro pessoal com gráficos interativos, metas e relatórios PDF | React Native, Reanimated 3, Chart.js, PDFKit | ![25%](https://progress-bar.dev/25/?title=Progress&color=8B5CF6&width=120) |
-| **Design System** | Biblioteca de 50+ componentes UI reutilizáveis, documentada no Storybook | React Native, TypeScript, Storybook, Tokens Design | ![15%](https://progress-bar.dev/15/?title=Progress&color=06B6D4&width=120) |
+| **App Delivery** | Clone iFood com rastreamento em tempo real, pagamentos e geolocalização | React Native, Expo, Socket.io, Google Maps, Stripe | ![40%](https://img.shields.io/badge/Progress-40%25-6C63FF?style=flat-square) |
+| **Finance Tracker** | Controle financeiro pessoal com gráficos interativos, metas e relatórios PDF | React Native, Reanimated 3, Chart.js, PDFKit | ![25%](https://img.shields.io/badge/Progress-25%25-8B5CF6?style=flat-square) |
+| **Design System** | Biblioteca de 50+ componentes UI reutilizáveis, documentada no Storybook | React Native, TypeScript, Storybook, Tokens Design | ![15%](https://img.shields.io/badge/Progress-15%25-06B6D4?style=flat-square) |
 </details>
 
 ---
@@ -139,13 +139,13 @@
 
 | Meta | Status | Progresso |
 |:---|:---:|:---:|
-| Publicar 2 apps nas stores (Play Store / App Store) | 🚧 Em andamento | ![80%](https://progress-bar.dev/80/?color=6C63FF&width=150) |
-| Contribuir para 5 projetos open-source (React Native) | 📋 Planejado | ![0%](https://progress-bar.dev/0/?color=8B5CF6&width=150) |
-| Dominar Reanimated 3 + Gesture Handler | 📚 Estudando | ![60%](https://progress-bar.dev/60/?color=06B6D4&width=150) |
-| Certificação Expo/React Native | 📋 Planejado | ![0%](https://progress-bar.dev/0/?color=6C63FF&width=150) |
-| Criar Design System próprio (50+ componentes) | 🚧 Em andamento | ![40%](https://progress-bar.dev/40/?color=8B5CF6&width=150) |
-| Escrever 12 artigos técnicos no ano | ✍️ Iniciado | ![15%](https://progress-bar.dev/15/?color=06B6D4&width=150) |
-| **Concluir curso Python na DIO + projeto prático** | 🐍 Iniciado | ![20%](https://progress-bar.dev/20/?color=6C63FF&width=150) |
+| Publicar 2 apps nas stores (Play Store / App Store) | 🚧 Em andamento | ![80%](https://img.shields.io/badge/Progress-80%25-6C63FF?style=flat-square) |
+| Contribuir para 5 projetos open-source (React Native) | 📋 Planejado | ![0%](https://img.shields.io/badge/Progress-0%25-lightgrey?style=flat-square) |
+| Dominar Reanimated 3 + Gesture Handler | 📚 Estudando | ![60%](https://img.shields.io/badge/Progress-60%25-06B6D4?style=flat-square) |
+| Certificação Expo/React Native | 📋 Planejado | ![0%](https://img.shields.io/badge/Progress-0%25-lightgrey?style=flat-square) |
+| Criar Design System próprio (50+ componentes) | 🚧 Em andamento | ![40%](https://img.shields.io/badge/Progress-40%25-8B5CF6?style=flat-square) |
+| Escrever 12 artigos técnicos no ano | ✍️ Iniciado | ![15%](https://img.shields.io/badge/Progress-15%25-06B6D4?style=flat-square) |
+| **Concluir curso Python na DIO + projeto prático** | 🐍 Iniciado | ![20%](https://img.shields.io/badge/Progress-20%25-6C63FF?style=flat-square) |
 
 </div>
 </details>
