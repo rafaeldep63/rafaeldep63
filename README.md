@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+Rafael+de+Paula!;Desenvolvedor+Mobile+React+Native;Especialista+em+Expo+%26+TypeScript;Transformando+ideias+em+apps+nativos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+sou+Rafael+de+Paula!;Desenvolvedor+Mobile+React+Native;Futuro+Dev+de+IA+%7C+Criador+de+Sites;Python+%7C+React+%7C+TypeScript+%7C+Intelig%C3%AAncia+Artificial" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,13 +11,15 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/IA-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sites_Web-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Brasil-MG-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼_Disponível-Freelance%20%7C%20CLT%20%7C%20PJ-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌱_Aprendendo-Python%20(DIO)%20%7C%20Reanimated%203-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Brasil-SP-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖_Futuro_Dev_IA-Python%20%7C%20Machine%20Learning-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐_Crio_Sites-Landing%20Pages%20%7C%20Web%20Apps-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Disponível-Freelance%20%7C%20CLT%20%7C%20PJ-06B6D4?style=flat-square" />
 </p>
 
 ---
@@ -28,13 +30,13 @@
 
 <div align="center">
 
-| 📱 **Mobile & Frontend** | 🏗️ **Arquitetura & Qualidade** | ☁️ **Backend & Cloud** |
+| 📱 **Mobile & Frontend** | 🤖 **IA & Dados** | 🌐 **Sites & Web** |
 |:---:|:---:|:---:|
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge&logo=clean-architecture&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![React Navigation](https://img.shields.io/badge/React_Navigation-8B5CF6?style=for-the-badge&logo=react-router&logoColor=white) | ![SOLID](https://img.shields.io/badge/SOLID-Principles-FF6B6B?style=for-the-badge&logo=solid&logoColor=white) | ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white) |
-| ![Reanimated](https://img.shields.io/badge/Reanimated_3-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Design Patterns](https://img.shields.io/badge/Design_Patterns-8B5CF6?style=for-the-badge&logo=design-patterns&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | ![Testes](https://img.shields.io/badge/Jest-Testes-C21325?style=for-the-badge&logo=jest&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI_API-6C63FF?style=for-the-badge&logo=openai&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| ![React Navigation](https://img.shields.io/badge/React_Navigation-8B5CF6?style=for-the-badge&logo=react-router&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Data Science](https://img.shields.io/badge/Data_Science-4CAF50?style=for-the-badge&logo=jupyter&logoColor=white) | ![Landing Pages](https://img.shields.io/badge/Landing_Pages-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white) |
+| ![Reanimated](https://img.shields.io/badge/Reanimated_3-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-8B5CF6?style=for-the-badge&logo=robot-framework&logoColor=white) | ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white) |
 
 </div>
 </details>
@@ -49,11 +51,25 @@
 </p>
 </details>
 
-<details>
-<summary><b>🐍 Stack Tecnológica — Python & Data <i>(em aprendizado — DIO)</i></b></summary>
+<details open>
+<summary><b>🐍 Stack Tecnológica — Python & IA <i>(em aprendizado — DIO)</i></b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,pandas,numpy" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,sqlite,postgresql" height="55" />
+</p>
+<p align="center">
+  <sub>🎯 Foco: Machine Learning • Automação • Chatbots • Análise de Dados • APIs com IA</sub>
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Stack Tecnológica — Sites & Web</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vercel" height="55" />
+</p>
+<p align="center">
+  <sub>🎯 Crio: Landing Pages • Sites Institucionais • E-commerces • Web Apps responsivos</sub>
 </p>
 </details>
 
@@ -112,9 +128,15 @@
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+  <a href="https://github.com/rafaeldep63">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/rafaeldep63">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&cache_seconds=86400" />
+  </a>
 </div>
+
+> ⚠️ Se as estatísticas aparecerem quebradas, é cache do Vercel — aguarde 5min e dê Ctrl+F5. Alternativa estável: https://github.com/rafaeldep63
 </details>
 
 ---
