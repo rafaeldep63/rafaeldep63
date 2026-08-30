@@ -143,15 +143,6 @@
   <br/>
   <sub>🐍 Cobrinha comendo suas contribuições — atualiza todo dia</sub>
 </div>
-
-<details>
-<summary><i>📊 Ver cards detalhados (vercel)</i></summary>
-<br/>
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
-</div>
-</details>
 </details>
   <br/>
   <sub>🐍 A cobrinha come suas contribuições todo dia — atualiza automaticamente</sub>
