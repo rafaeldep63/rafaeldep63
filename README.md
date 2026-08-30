@@ -128,18 +128,35 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/rafaeldep63">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/rafaeldep63">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&cache_seconds=86400" />
-  </a>
+  <img src="https://img.shields.io/github/followers/rafaeldep63?label=Seguidores&style=for-the-badge&color=6C63FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/rafaeldep63?label=Estrelas%20Totais&style=for-the-badge&color=8B5CF6&logo=github" />
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-P%C3%BAblicos-06B6D4?style=for-the-badge&logo=github" />
 </div>
 
-> ⚠️ Se as estatísticas aparecerem quebradas, é cache do Vercel — aguarde 5min e dê Ctrl+F5. Alternativa estável: https://github.com/rafaeldep63
-</details>
+<div align="center">
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/>
+  <sub>🐍 Cobrinha comendo suas contribuições — atualiza todo dia</sub>
+</div>
 
----
+<details>
+<summary><i>📊 Ver cards detalhados (vercel)</i></summary>
+<br/>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B5CF6&text_color=c9d1d9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" />
+</div>
+</details>
+</details>
+  <br/>
+  <sub>🐍 A cobrinha come suas contribuições todo dia — atualiza automaticamente</sub>
+</div>
+</details>
 
 <details>
 <summary><b>📈  Atividade Recente</b></summary>
