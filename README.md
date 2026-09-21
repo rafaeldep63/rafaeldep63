@@ -44,6 +44,8 @@ Conquistar o **primeiro estágio/emprego como desenvolvedor júnior**. Estudo to
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rafaeldep63&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
