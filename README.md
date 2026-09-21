@@ -43,7 +43,8 @@ Conquistar o **primeiro estágio/emprego como desenvolvedor júnior**. Estudo to
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaeldep63&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rafaeldep63&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldep63&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -62,4 +63,4 @@ Conquistar o **primeiro estágio/emprego como desenvolvedor júnior**. Estudo to
 
 ---
 
-<p align="center"><i>Perfil honesto, em construção — igual ao dono. 🛠️</i></p>
+<p align="center"><i>"Só sei que nada sei." — Sócrates</i></p>
