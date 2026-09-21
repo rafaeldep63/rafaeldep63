@@ -46,8 +46,16 @@ Conquistar o **primeiro estágio/emprego como desenvolvedor júnior**. Estudo to
   <img src="https://streak-stats.demolab.com?user=rafaeldep63&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🐍 Minhas contribuições viraram um jogo
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rafaeldep63/rafaeldep63/output/github-contribution-grid-snake-dark.svg" alt="Cobra comendo as contribuições" />
+  </picture>
+  <br/>
+  <i>Cada quadradinho é um dia de estudo. A cobra come todos. 🐍</i>
 </p>
 
 ---
