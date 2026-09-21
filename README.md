@@ -7,14 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaeldep63&color=6C63FF&style=flat-square&label=VISITANTES" alt="visitantes" />
   <img src="https://img.shields.io/badge/📍_Brasil-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/🎓_Ensino_médio_+_Redes_UNIPAC-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/🎯_Em_busca_do_primeiro_estágio-06B6D4?style=flat-square" />
@@ -22,21 +15,55 @@
 
 ---
 
-### 📚 Estudando agora
+### 🙋‍♂️ Sobre mim
 
-- HTML, CSS e JavaScript (construindo projetos reais)
-- Lógica de programação e algoritmos
-- Git e GitHub
-- Python (básico)
-- Inglês técnico e uso de IA para estudar
+Sou estudante do ensino médio e faço curso de **Redes de Computadores na UNIPAC**. Descobri a programação e viciei: estudo todo dia, construo projetos reais e documento tudo aqui no GitHub.
+
+> 🎯 **Objetivo:** conquistar o primeiro estágio/emprego como desenvolvedor júnior.
+> 📏 **Regra:** consistência acima de tudo — 1% melhor a cada dia.
+
+### 🛠️ Aprendendo agora
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode" height="55" />
+</p>
+
+<p align="center"><i>HTML • CSS • JavaScript • Lógica • Git & GitHub • Python (básico) • Inglês técnico</i></p>
+
+---
 
 ### 🚀 Projeto em destaque
 
-**⚔️ [DEV QUEST](https://github.com/rafaeldep63/rpg-carreira-dev)** — RPG de estudos com visual pixel-art que guia do level 0 ao primeiro emprego: 43 quests, 36 aulas com quizzes, 3 projetos de portfólio e guia de entrevistas. Feito com HTML, CSS e JS puro.
+<table>
+  <tr>
+    <td width="70%">
+      <h3>⚔️ <a href="https://github.com/rafaeldep63/rpg-carreira-dev">DEV QUEST</a></h3>
+      <p>RPG de estudos com visual pixel-art que guia do <b>level 0 ao primeiro emprego</b>:</p>
+      <ul>
+        <li>🗺️ 43 quests baseadas no mercado dev BR 2026</li>
+        <li>📚 36 aulas com quizzes que valem XP</li>
+        <li>👹 3 chefões = 3 projetos de portfólio</li>
+        <li>🔥 Streak diário, conquistas e sons 8-bit</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🎯 Objetivo
+### 🗺️ Minha jornada
 
-Conquistar o **primeiro estágio/emprego como desenvolvedor júnior**. Estudo todos os dias — consistência acima de tudo.
+```
+[✔] Base: lógica, Git, rotina de estudos
+[✔] Front: HTML, CSS, JavaScript
+[ ] Framework + TypeScript ......... PRÓXIMA FASE
+[ ] Back-end + banco de dados
+[ ] Testes e qualidade
+[ ] Portfólio + primeira vaga
+```
 
 ---
 
@@ -68,6 +95,8 @@ Conquistar o **primeiro estágio/emprego como desenvolvedor júnior**. Estudo to
   <a href="https://github.com/rafaeldep63"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6C63FF,8B5CF6,06B6D4&height=120&section=footer&fontSize=20&fontColor=fff&animation=fadeIn" alt="Footer Wave" />
+</p>
 
 <p align="center"><i>"Só sei que nada sei." — Sócrates</i></p>
