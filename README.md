@@ -68,6 +68,9 @@ Sou estudante do ensino médio e faço curso de **Redes de Computadores na UNIPA
 ---
 
 ### 📊 Estatísticas
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rafaeldep63&theme=tokyonight&hide_border=true" />
